@@ -9,4 +9,3 @@ This project contains Python scripts for learning basic concepts from chapters 1
 - ✅ Chapter 3: Input and Output
 - ✅ Chapter 4: Object Types
 - ✅ Chapter 5: Numbers and Math Operations
-
