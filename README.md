@@ -1,6 +1,6 @@
 # Python-Learning
 
-This project contains Python scripts for learning basic concepts from chapters 1 to 5.
+This project contains Python scripts for learning basic concepts from chapters 1 to 10.
 
 ## Chapters Covered:
 
