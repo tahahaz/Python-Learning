@@ -1,8 +1,7 @@
-x = 5
-print(type(x))
+# Define a function
+def greet(name):
+    print("Hello,", name)
 
-x = "Hello"
-print(type(x))
-
-x = [1, 2, 3]
-print(type(x))
+# Call the function
+greet("Taha")
+greet("Ahmed")

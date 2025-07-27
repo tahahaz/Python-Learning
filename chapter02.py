@@ -1,3 +1,3 @@
-# Python is interpreted line by line
-print("Line 1")
-print("Line 2")
+# This script shows how Python runs a program
+name = input("Enter your name: ")
+print("Hello,", name)

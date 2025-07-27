@@ -1,6 +1,9 @@
-my_list = [1, 2, 3]
-my_tuple = (1, 2, 3)
-my_set = {1, 2, 2, 3}
-my_dict = {'a': 1, 'b': 2}
+# Using a for loop to print numbers 1 to 5
+for i in range(1, 6):
+    print("Number:", i)
 
-print(my_list, my_tuple, my_set, my_dict)
+# Using a while loop
+count = 1
+while count <= 5:
+    print("Count is:", count)
+    count += 1
